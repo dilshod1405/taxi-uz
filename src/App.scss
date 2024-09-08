@@ -1,0 +1,14 @@
+.App{
+    width: 100%;
+    background-color: #FFD93D;
+    min-height: 100vh;
+
+}
+
+@media  screen and (max-width: 936px) and (min-width: 360px) {
+    .App{
+        width: auto;
+        background-color: #FFD93D;
+        min-height: 100vh;
+    }
+}
